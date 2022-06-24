@@ -1,0 +1,257 @@
+2022-05-23 23:55:53,242  INFO [main] CRMTechProject:46 - initialising a browser with namenull
+ 2022-05-24 00:21:11,334  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 00:21:16,551  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 00:21:16,551  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 00:26:28,482  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 00:26:31,180  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 00:26:31,180  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 00:59:35,684  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 00:59:38,667  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 00:59:38,667  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:01:38,250  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:01:41,132  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:01:41,133  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:05:23,450  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:05:26,115  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:05:26,115  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:08:13,969  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:08:16,694  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:08:16,695  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:11:16,001  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:11:18,839  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:11:18,840  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:15:05,918  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:15:08,628  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:15:08,628  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:16:51,423  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:16:54,099  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:16:54,099  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:18:25,076  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:18:27,881  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:18:27,882  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 01:28:18,338  INFO [main] CRMTechProject:52 - initialising a browser with namechrome
+ 2022-05-24 01:28:21,999  INFO [main] CRMTechProject:57 - launching an application
+ 2022-05-24 01:28:22,000  INFO [main] CRMTechProject:59 - chorme browser initialised
+ 2022-05-24 18:37:18,315  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:37:22,223  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:37:22,223  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:37:44,582  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:37:46,307  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:37:46,308  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:40:25,772  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:40:28,437  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:40:28,437  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:40:38,290  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:40:39,680  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:40:39,680  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:41:42,160  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:41:44,996  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:41:44,996  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:41:54,228  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:41:55,515  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:41:55,515  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:44:16,322  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:44:19,226  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:44:19,226  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 18:44:38,870  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 18:44:40,320  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 18:44:40,320  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 19:25:22,104  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 19:25:25,336  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 19:25:25,337  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 19:26:03,123  INFO [main] CRMTechProject:53 - initialising a browser with namechrome
+ 2022-05-24 19:26:04,679  INFO [main] CRMTechProject:58 - launching an application
+ 2022-05-24 19:26:04,680  INFO [main] CRMTechProject:60 - chorme browser initialised
+ 2022-05-24 20:02:45,044  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 20:02:48,807  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 20:02:48,807  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 20:03:43,397  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 20:03:44,637  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 20:03:44,637  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 20:06:48,509  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 20:06:51,140  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 20:06:51,141  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 20:07:59,154  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 20:08:00,429  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 20:08:00,430  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 20:56:32,212  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 20:56:35,028  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 20:56:35,028  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 20:56:49,307  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 20:56:50,599  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 20:56:50,600  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 21:03:00,941  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 21:03:04,470  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 21:03:04,471  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 21:03:22,877  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 21:03:24,202  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 21:03:24,202  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 21:06:05,739  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 21:06:08,562  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 21:06:08,562  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 21:06:43,701  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 21:06:45,228  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 21:06:45,228  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 21:10:10,878  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 21:10:13,496  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 21:10:13,496  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 21:11:12,967  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 21:11:14,239  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 21:11:14,240  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:37:24,560  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:37:28,817  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:37:28,817  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:37:41,884  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:37:43,166  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:37:43,167  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:40:46,571  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:40:49,246  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:40:49,246  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:40:53,899  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:40:55,145  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:40:55,145  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:43:15,683  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:43:19,028  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:43:19,029  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:44:11,945  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:44:13,179  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:44:13,180  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:48:08,375  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:48:11,095  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:48:11,095  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-24 23:48:40,314  INFO [main] CRMTechProject:42 - initialising a browser with namechrome
+ 2022-05-24 23:48:41,555  INFO [main] CRMTechProject:47 - launching an application
+ 2022-05-24 23:48:41,555  INFO [main] CRMTechProject:49 - chorme browser initialised
+ 2022-05-25 14:14:42,708  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:14:47,579  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:14:47,579  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:14:56,786  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:14:58,056  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:14:58,057  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:15:04,941  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:15:06,342  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:15:06,343  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:26:08,252  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:26:10,932  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:26:10,933  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:26:15,640  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:26:16,972  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:26:16,973  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:26:35,537  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:26:36,789  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:26:36,790  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:32:43,199  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:32:45,853  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:32:45,853  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:33:32,504  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:33:33,767  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:33:33,767  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:33:43,166  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:33:44,421  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:33:44,422  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:36:01,821  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:36:04,456  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:36:04,456  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:36:34,581  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:36:35,807  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:36:35,808  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:36:44,357  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:36:45,624  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:36:45,625  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:48:50,401  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:48:52,983  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:48:52,984  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:49:55,748  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:49:57,156  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:49:57,156  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 14:50:36,403  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 14:50:37,620  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 14:50:37,620  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:00:49,808  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:00:52,408  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:00:52,409  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:01:25,097  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:01:26,413  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:01:26,414  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:01:42,296  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:01:43,566  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:01:43,567  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:10:33,691  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:10:36,342  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:10:36,343  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:11:02,217  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:11:03,558  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:11:03,559  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:11:28,979  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:11:30,334  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:11:30,334  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:15:46,423  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:15:50,391  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:15:50,392  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:16:17,226  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:16:18,497  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:16:18,497  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:16:37,209  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:16:38,476  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:16:38,476  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:31:53,396  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:31:56,015  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:31:56,016  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:32:42,742  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:32:43,965  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:32:43,966  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:32:54,471  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:32:55,727  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:32:55,728  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:37:11,665  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:37:14,330  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:37:14,331  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:37:58,611  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:37:59,888  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:37:59,888  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-25 15:38:41,182  INFO [main] CRMTechProject:44 - initialising a browser with namechrome
+ 2022-05-25 15:38:42,441  INFO [main] CRMTechProject:49 - launching an application
+ 2022-05-25 15:38:42,442  INFO [main] CRMTechProject:51 - chorme browser initialised
+ 2022-05-26 01:15:50,135  INFO [main] CRMTechProject:46 - initialising a browser with namechrome
+ 2022-05-26 01:15:54,915  INFO [main] CRMTechProject:51 - launching an application
+ 2022-05-26 01:15:54,915  INFO [main] CRMTechProject:53 - chorme browser initialised
+ 2022-05-26 01:16:19,821  INFO [main] CRMTechProject:46 - initialising a browser with namechrome
+ 2022-05-26 01:16:21,090  INFO [main] CRMTechProject:51 - launching an application
+ 2022-05-26 01:16:21,090  INFO [main] CRMTechProject:53 - chorme browser initialised
+ 2022-05-26 01:16:40,085  INFO [main] CRMTechProject:46 - initialising a browser with namechrome
+ 2022-05-26 01:16:41,370  INFO [main] CRMTechProject:51 - launching an application
+ 2022-05-26 01:16:41,370  INFO [main] CRMTechProject:53 - chorme browser initialised
+ 2022-05-26 01:17:09,102  INFO [main] CRMTechProject:46 - initialising a browser with namechrome
+ 2022-05-26 01:17:10,373  INFO [main] CRMTechProject:51 - launching an application
+ 2022-05-26 01:17:10,374  INFO [main] CRMTechProject:53 - chorme browser initialised
+ 2022-05-26 18:14:07,503  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:14:33,995  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:14:33,995  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:14:57,559  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:14:58,897  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:14:58,897  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:15:17,105  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:15:18,527  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:15:18,528  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:15:43,545  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:15:44,835  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:15:44,836  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:15:53,353  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:15:54,623  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:15:54,624  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:22:54,425  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:22:57,076  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:22:57,076  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:23:29,086  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:23:30,348  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:23:30,349  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:23:52,066  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:23:53,415  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:23:53,415  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:24:23,216  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:24:24,470  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:24:24,471  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 2022-05-26 18:24:47,297  INFO [main] CRMTechProject:48 - initialising a browser with namechrome
+ 2022-05-26 18:24:48,580  INFO [main] CRMTechProject:53 - launching an application
+ 2022-05-26 18:24:48,580  INFO [main] CRMTechProject:55 - chorme browser initialised
+ 
